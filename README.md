@@ -1,5 +1,6 @@
 # WarehouseManager
 A inventory management desktop application
+-> Download the .exe file to run the program
 -> Accessing the application Username: Derrick
                              Password: Welcome
                              
